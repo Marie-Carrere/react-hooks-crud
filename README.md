@@ -1,6 +1,6 @@
 <h1 align="center">React CRUD App with Hooks</h1>
 
-<img src="./public/crud app.png" style="max-width:100%" align="center" alt="react-crud-app" />
+![banner (4)](https://user-images.githubusercontent.com/30493337/61952835-37b41180-afb5-11e9-94cb-1341c0a5ce70.png)
 
 ## Built With
 * [React](https://reactjs.org/)
